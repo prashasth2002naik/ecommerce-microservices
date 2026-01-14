@@ -1,0 +1,6 @@
+/home/msis/ecommerce-microservices/cart-service/src/main/java/com/ecommerce/cart/controller/CartController.java
+/home/msis/ecommerce-microservices/cart-service/src/main/java/com/ecommerce/cart/client/ProductClient.java
+/home/msis/ecommerce-microservices/cart-service/src/main/java/com/ecommerce/cart/CartServiceApplication.java
+/home/msis/ecommerce-microservices/cart-service/src/main/java/com/ecommerce/cart/model/CartItem.java
+/home/msis/ecommerce-microservices/cart-service/src/main/java/com/ecommerce/cart/model/Product.java
+/home/msis/ecommerce-microservices/cart-service/src/main/java/com/ecommerce/cart/service/CartService.java

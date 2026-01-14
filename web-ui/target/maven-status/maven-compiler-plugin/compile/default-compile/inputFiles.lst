@@ -1,0 +1,5 @@
+/home/msis/ecommerce-microservices/web-ui/src/main/java/com/ecommerce/webui/client/OrderClient.java
+/home/msis/ecommerce-microservices/web-ui/src/main/java/com/ecommerce/webui/client/ProductClient.java
+/home/msis/ecommerce-microservices/web-ui/src/main/java/com/ecommerce/webui/client/CartClient.java
+/home/msis/ecommerce-microservices/web-ui/src/main/java/com/ecommerce/webui/WebUiApplication.java
+/home/msis/ecommerce-microservices/web-ui/src/main/java/com/ecommerce/webui/controller/WebController.java

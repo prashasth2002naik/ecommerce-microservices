@@ -1,0 +1,5 @@
+com/ecommerce/webui/client/ProductClient.class
+com/ecommerce/webui/client/OrderClient.class
+com/ecommerce/webui/client/CartClient.class
+com/ecommerce/webui/WebUiApplication.class
+com/ecommerce/webui/controller/WebController.class
